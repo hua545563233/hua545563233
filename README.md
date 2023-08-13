@@ -1,9 +1,15 @@
-### Hi there 👋
-#### This is Liu Zhihua
+### 你好！ 👋
+#### 我是刘志华
 
-- 🏢 Beijing ZZNode Technologies Co., Ltd. 
-- 💻 Base on Hangzhou
-- ⚡ Javascript
+- 🏢 目前就职于**北京直真科技股份有限公司杭州分公司**
+- 💻 生活在**杭州**
+- ⚡ 我是一名**前端开发工程师**
+- 😃 喜欢**音乐**、**烹饪**、**打游戏**
+- 📧 Email：**zhihua.liu@zznode.com**
+
+
+
+
 <!--
 **hua545563233/hua545563233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
