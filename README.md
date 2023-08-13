@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### This is Liu Zhihua
 
-- 🏢 Working on Beijing ZZNode Technologies Co., Ltd. 
+- 🏢 Beijing ZZNode Technologies Co., Ltd. 
 - 💻 Base on Hangzhou
 - ⚡ Javascript
 <!--
