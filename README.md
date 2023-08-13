@@ -1,5 +1,9 @@
 ### Hi there 👋
 #### This is Liu Zhihua
+
+- 🏢 Working on Beijing ZZNode Technologies Co., Ltd. 
+- 💻 Base on Hangzhou
+- ⚡ Javascript
 <!--
 **hua545563233/hua545563233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
